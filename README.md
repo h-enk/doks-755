@@ -5,5 +5,5 @@ See https://github.com/h-enk/doks/pull/755
 
 ## Use cases
 
-- Add styles from a CDN (in stead of via npm) — e.g. Bootstrap icone
-- Add scripts from a CDN (in stead of via npm) — e.g. Google Analytics 4 (GA4)
+- Add styles served from a CDN — e.g. Bootstrap icons
+- Add scripts served from a CDN — e.g. Google Analytics 4 (GA4)
